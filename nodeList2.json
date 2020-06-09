@@ -32,7 +32,7 @@
   "AP4": {
     "latitude":  43.683259,
     "longitude":-79.525483,
-    "antennaDirection":345,
+    "antennaDirection":295,
     "antennaDegreas":120,
     "antennaDistance":500,
     "antennaHeight":"",
@@ -42,7 +42,7 @@
   "AP5": {
     "latitude":  43.688634,
     "longitude":-79.515350,
-    "antennaDirection":0,
+    "antennaDirection":345,
     "antennaDegreas":60,
     "antennaDistance":100,
     "antennaHeight":"",
