@@ -38,5 +38,16 @@
     "antennaHeight":"",
     "type":"Sector",
     "dateAdded":"2017-08-15T00:00:00.0Z"
+  },
+  "AP5": {
+    "latitude":  43.688634,
+    "longitude":-79.515350,
+    "antennaDirection":0,
+    "antennaDegreas":60,
+    "antennaDistance":100,
+    "antennaHeight":"",
+    "type":"AP",
+    "dateAdded":"2017-08-15T00:00:00.0Z"
   }
+  
 }
