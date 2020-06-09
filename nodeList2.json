@@ -32,9 +32,9 @@
   "AP4": {
     "latitude":  43.683259,
     "longitude":-79.525483,
-    "antennaDirection":295,
+    "antennaDirection":315,
     "antennaDegreas":120,
-    "antennaDistance":500,
+    "antennaDistance":300,
     "antennaHeight":"",
     "type":"Sector",
     "dateAdded":"2017-08-15T00:00:00.0Z"
