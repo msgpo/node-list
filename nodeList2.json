@@ -9,10 +9,20 @@
     "type":"Sector",
     "dateAdded":"2017-08-15T00:00:00.0Z"
   },
-    "AP2": {
+  "AP2": {
     "latitude":43.672680,
     "longitude":-79.491652,
     "antennaDirection":305,
+    "antennaDegreas":120,
+    "antennaDistance":2500,
+    "antennaHeight":"",
+    "type":"Sector",
+    "dateAdded":"2017-08-15T00:00:00.0Z"
+  },
+  "AP3": {
+    "latitude":  43.672905,
+    "longitude":-79.490826,
+    "antennaDirection":195,
     "antennaDegreas":120,
     "antennaDistance":2500,
     "antennaHeight":"",
