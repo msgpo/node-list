@@ -12,7 +12,7 @@
   "AP2": {
     "latitude":43.672680,
     "longitude":-79.491652,
-    "antennaDirection":305,
+    "antennaDirection":245,
     "antennaDegreas":120,
     "antennaDistance":2500,
     "antennaHeight":"",
@@ -22,7 +22,7 @@
   "AP3": {
     "latitude":  43.672905,
     "longitude":-79.490826,
-    "antennaDirection":195,
+    "antennaDirection":125,
     "antennaDegreas":120,
     "antennaDistance":2500,
     "antennaHeight":"",
