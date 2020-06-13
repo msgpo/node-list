@@ -30,11 +30,11 @@
     "dateAdded":"2017-08-15T00:00:00.0Z"
   },
   "AP4": {
-    "latitude":  43.675099,
-    "longitude":-79.491618,
+    "latitude":  43.672958,
+    "longitude":-79.491947,
     "antennaDirection":315,
     "antennaDegreas":120,
-    "antennaDistance":315,
+    "antennaDistance":2500,
     "antennaHeight":"",
     "type":"Sector",
     "dateAdded":"2017-08-15T00:00:00.0Z"
