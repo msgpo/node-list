@@ -1,7 +1,7 @@
 {
   "AP1": {
-    "latitude":43.672527,
-    "longitude":-79.490436,
+    "latitude":43.67294320193783,
+    "longitude":-79.49065126224754,
     "antennaDirection":45,
     "antennaDegreas":120,
     "antennaDistance":2500,
@@ -10,8 +10,8 @@
     "dateAdded":"2017-08-15T00:00:00.0Z"
   },
   "AP2": {
-    "latitude":43.672421,
-    "longitude":-79.488075,
+    "latitude":43.6724955412285,
+    "longitude":-79.49096252960481,
     "antennaDirection":135,
     "antennaDegreas":120,
     "antennaDistance":2500,
@@ -20,8 +20,8 @@
     "dateAdded":"2017-08-15T00:00:00.0Z"
   },
   "AP3": {
-    "latitude":  43.675422,
-    "longitude":-79.491252,
+    "latitude":  43.67258639787409,
+    "longitude":-79.4916570881011,
     "antennaDirection":225,
     "antennaDegreas":120,
     "antennaDistance":2500,
